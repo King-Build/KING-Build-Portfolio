@@ -37,7 +37,7 @@ It showcases my **skills, projects, and experiences** as a Frontend Developer.
 <h2>
 
 ![handPointRight](https://readmecodegen.vercel.app/api/social-icon?name=handPointRight&size=20&animation=glow)
-<a href="https://shop-mates.netlify.app" target="_blank">Live Demo</a> 
+<a href="https://king-build.netlify.app" target="_blank">Live Demo</a> 
 </h2>
 
 

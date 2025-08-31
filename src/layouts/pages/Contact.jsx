@@ -39,9 +39,6 @@ const Contact = () => {
                     <a href="https://t.me/UZBEKK1NG" target="_blank" rel="noopener noreferrer" className="text-[#29b6f6]">
                         <FaTelegramPlane size={26} className="sm:size-[30px]" />
                     </a>
-                    <a href="https://www.freelancer.com/u/K1NGBuild" target="_blank" rel="noopener noreferrer" className="text-[#FFD700]">
-                        <SiFreelancer size={26} className="sm:size-[30px]" />
-                    </a>
                     <a href="https://github.com/King-Build" target="_blank" rel="noopener noreferrer" className="text-white">
                         <FaGithub size={26} className="sm:size-[30px]" />
                     </a>
